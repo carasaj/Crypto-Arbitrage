@@ -23,7 +23,7 @@ The user will need to install and/or import the following:
 
 ## Installation Guide
 
-The user will need to have [Python3](https://www.python.org/downloads/) downloaded first, then [Cnaconda](https://docs.continuum.io/anaconda/).
+The user will need to have [Python3](https://www.python.org/downloads/) downloaded first, then [Anaconda](https://docs.continuum.io/anaconda/).
 
 Anaconda Navigator can be used to easily install and/or access [Jupyter Lab - Anaconda](https://anaconda.org/anaconda/jupyter) and [Pandas - Anaconda](https://docs.anaconda.com/navigator/tutorials/pandas/). They should be accessable immediately after installing Anaconda; if not, follow the previous links. If you are not using Anaconda and prefer manual installs, use the Manual Install links provided in the previous section and follow the steps listed in the documentation.
 
